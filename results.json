@@ -1,0 +1,60 @@
+{
+  "h_seconds": 0.5,
+  "current_sigma": 1.5,
+  "E1_boat_current": {
+    "naive": 0.538,
+    "residual_reuse": 0.994
+  },
+  "E2_more_data": {
+    "1000": {
+      "naive": 0.533,
+      "residual_reuse": 0.978
+    },
+    "4000": {
+      "naive": 0.547,
+      "residual_reuse": 0.985
+    },
+    "16000": {
+      "naive": 0.529,
+      "residual_reuse": 0.995
+    },
+    "64000": {
+      "naive": 0.548,
+      "residual_reuse": 0.995
+    }
+  },
+  "E3_worn_motor": {
+    "naive": 0.933,
+    "residual_reuse": 0.827
+  },
+  "E3_harbour_wall": {
+    "naive": 0.537,
+    "residual_reuse": 0.938,
+    "contact_events": 1646,
+    "contact_naive": 0.379,
+    "contact_residual_reuse": 0.857
+  },
+  "E4_step_length": {
+    "0.25": {
+      "naive": 0.675,
+      "residual_reuse": 0.991
+    },
+    "0.5": {
+      "naive": 0.54,
+      "residual_reuse": 0.993
+    },
+    "1.0": {
+      "naive": 0.499,
+      "residual_reuse": 0.982
+    },
+    "2.0": {
+      "naive": 0.48,
+      "residual_reuse": 0.957
+    },
+    "4.0": {
+      "naive": 0.508,
+      "residual_reuse": 0.936
+    }
+  },
+  "runtime_s": 21.1
+}
