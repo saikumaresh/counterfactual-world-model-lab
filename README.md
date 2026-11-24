@@ -33,4 +33,4 @@ python lab.py
 
 This is a toy. The paper works from pixels with frozen image encoders (DINOv2, MAE and others) and JEPA predictors. The authors' code: https://github.com/galilai-group/counterfactual-WM
 
-MIT licence. Companion article by Sai Kumaresh on Medium.
+MIT licence. Companion article: [The Question No AI Can Answer. Then They Answered It.](https://medium.com/@saikumaresh/the-question-no-ai-can-answer-then-they-answered-it-b3f8baff66f2)
